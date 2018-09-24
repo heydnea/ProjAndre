@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Selbetti\\.nuget\\packages\\": {},
+    "C:\\Users\\João Missorino\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Selbetti\\source\\repos\\ProjAndre\\ProjAndre\\ProjAndre.csproj",
+      "projectUniqueName": "C:\\Users\\João Missorino\\Desktop\\ProjAndre\\ProjAndre\\ProjAndre\\ProjAndre.csproj",
       "projectName": "ProjAndre",
-      "projectPath": "C:\\Users\\Selbetti\\source\\repos\\ProjAndre\\ProjAndre\\ProjAndre.csproj",
-      "packagesPath": "C:\\Users\\Selbetti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Selbetti\\source\\repos\\ProjAndre\\ProjAndre\\obj\\",
+      "projectPath": "C:\\Users\\João Missorino\\Desktop\\ProjAndre\\ProjAndre\\ProjAndre\\ProjAndre.csproj",
+      "packagesPath": "C:\\Users\\João Missorino\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\João Missorino\\Desktop\\ProjAndre\\ProjAndre\\ProjAndre\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Selbetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\João Missorino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
